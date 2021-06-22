@@ -1,5 +1,7 @@
 # Next Level Week 6
 
+https://github.com/gustavocarvalhoti/next-level-week-6/tree/main/letmeask
+
 ## Technologies
 
 ````
@@ -13,13 +15,13 @@ SASS
 ## About
 
 ````
-Firebase - Backend do projeto
-Ferramentas do Google para criar uma infraestrutura de apps, 
-melhorar a qualidade de apps e desenvolver sua empresa
+Firebase - Backend
+Google tools to build an app infrastructure,
+improve the quality of apps and develop your business
 https://console.firebase.google.com/?pli=1
-Criar projeto - letmeask - criar projeto - Criação - Authentication - Google - Ativar e salvar
-Firestore Database - Relacional
-Real Time Database - NoSQL - Utilizei esse no projeto
+Create project - letmeask - Create project - Create - Authentication - Google - Active and Save
+Firestore Database - Relational
+Real Time Database - NoSQL - I use in this project
 ````
 
 ## Install
